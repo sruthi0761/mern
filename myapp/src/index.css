@@ -1,0 +1,11 @@
+h1{
+  text-align: center;
+  text-decoration-color: aqua;
+}
+#root{
+  background-color: rgba(16, 185, 252, 0.801);
+}
+button{
+  color: rgb(211, 250, 247);
+  background-color: rgb(10, 10, 10);
+}
